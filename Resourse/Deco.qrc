@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shotweif-DEF.png</file>
+        <file>icono.png</file>
+    </qresource>
+</RCC>
